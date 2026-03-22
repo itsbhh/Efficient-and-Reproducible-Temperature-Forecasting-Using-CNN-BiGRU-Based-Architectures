@@ -1,4 +1,4 @@
-#  Weather Prediction
+#  Efficient and Reproducible Temperature Forecasting Using CNN-BiGRU Based Architectures
 
 ### Research Published Link : https://ijsrm.net/index.php/ijsrm/article/view/7075
 
