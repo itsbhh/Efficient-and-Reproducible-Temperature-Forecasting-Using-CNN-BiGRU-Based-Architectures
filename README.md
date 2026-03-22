@@ -1,9 +1,9 @@
 #  Weather Prediction
 
-# Research Published Link : [https://ijsrm.net/index.php/ijsrm/article/view/7075]
+### Research Published Link : https://ijsrm.net/index.php/ijsrm/article/view/7075
 
 ## Overview
-This project predicts **temperature trends** from the [*Seattle Weather Dataset*](https://www.kaggle.com/datasets/ananthr1/weather-prediction) using various **Deep Learning models** such as RNN, LSTM, GRU, CNN, and hybrid architectures.
+I am the first author of this research, with primary responsibility for the methodology design, model development, coding, and overall implementation of the project. This project predicts **temperature trends** from the [*Seattle Weather Dataset*](https://www.kaggle.com/datasets/ananthr1/weather-prediction) using various **Deep Learning models** such as RNN, LSTM, GRU, CNN, and hybrid architectures.
 
 ---
 
